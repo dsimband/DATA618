@@ -1,0 +1,28 @@
+ID,Ticker,BondName,Morningstar Category,Class,Sub Class,Price,Shares,Value
+1,IVV,iShares Core S&P 500 ETF,Large Blend,Economically Sensitive Exposures,U.S. Equities ,447.05,280,125000
+3,SCHD,Schwab US Dividend Equity ETF™,Large Value,Economically Sensitive Exposures,U.S. Equities ,73.63,"1,358",100000
+4,USXF,iShares® ESG Advanced MSCI USA ETF,Large Growth,Economically Sensitive Exposures,U.S. Equities ,35.99,"2,779",100000
+7,FOVL,iShares Focused Value Factor ETF,Mid-Cap Value,Economically Sensitive Exposures,U.S. Equities ,52.18,"1,916",100000
+9,VBR,Vanguard Small-Cap Value ETF,Small Value,Economically Sensitive Exposures,U.S. Equities ,164.51,304,50000
+10,VIGI,Vanguard Intl Div Apprec ETF,Foreign Large Growth,Economically Sensitive Exposures,International Equities ,74.41,"2,688",200000
+11,JPEM,JPMorgan Diversified Return EMkts Eq ETF,Diversified Emerging Mkts,Economically Sensitive Exposures,Emerging Market Equities ,51.62,"6,587",340000
+12,ISCF,iShares MSCI Intl Small-Cap Mltfct ETF,Foreign Small/Mid Blend,Economically Sensitive Exposures,International Equities ,30.47,"5,579",170000
+13,IGRO,iShares International Dividend Gr ETF,Foreign Large Blend,Economically Sensitive Exposures,International Equities ,62.17,"4,825",300000
+14,VNQ,Vanguard Real Estate ETF,Vanguard Real Estate Index,Economically Sensitive Exposures,Publicly Traded REITs    ,81.81,"4,523",370000
+15,DFAR,Dimensional US Real Estate ETF,,Economically Sensitive Exposures,Publicly Traded REITs    ,21.14,"14,191",300000
+19,MFLX,First Trust Flexible Muncpl Hgh Inc ETF,Muni National Long,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,15.97,"9,393",150000
+21,SMMU,PIMCO Short Term Municipal Bond Actv ETF,Muni National Short,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,49.32,"4,055",200000
+23,MUNI,PIMCO Intermediate Municipal Bd Actv ETF,Muni National Interm,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,50.88,"2,948",150000
+27,IGMWX,Voya GNMA Income W,Intermediate Government,Interest Rate Sensitive Exposures,U.S. Government Bonds ,7.19,"69,541",500000
+28,VFIUX,Vanguard Interm-Term Treasury Adm,Intermediate Government,Interest Rate Sensitive Exposures,U.S. Government Bonds ,9.68,"46,488",450000
+29,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds ,20.81,"7,208",150000
+30,VGCAX,Vanguard Global Credit Bond Admiral,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds ,18.35,"5,450",100000
+33,SWRSX,Schwab Treasury Infl Protected Secs Idx,Inflation-Protected Bond,Interest Rate Sensitive Exposures,U.S. Government Bonds ,10.11,"39,565",400000
+34,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds ,20.81,"7,208",150000
+35,ICBFX,Invesco Corporate Bond R6,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds ,6,"16,667",100000
+37,PEX,ProShares Global Listed Private Equity,private equity index,Economically Sensitive Exposures,Private Equity ,27.94,"11,990",335000
+42,BPLSX,Boston Partners Long/Short Equity Instl ,,Economically Sensitive Exposures,Long/Short Equities ,15.01,"6,662",100000
+43,GARIX,Gotham Absolute Return Institutional,,Economically Sensitive Exposures,Long/Short Equities ,19.5,"6,923",135000
+44,GCHDX,Gotham Hedged Core Institutional,,Economically Sensitive Exposures,Long/Short Equities ,10.66,"9,381",100000
+45,Cash,Cash,,Cash,Cash,,,342500
+46,Equity,Supplier Equity,,Economically Sensitive Exposures,Supplier Equity,,,1200000
