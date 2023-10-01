@@ -1,41 +1,41 @@
 ,Ticker,BondName,Morningstar_Category,Class,Sub_Class,Price,Shares,Value
-0,IVV,iShares Core S&P 500 ETF,Large Blend,Economically Sensitive Exposures,U.S. Equities,448.8455505371094,8912.0,4000.0
-1,VONG,Vanguard Russell 1000 Growth ETF,Large Growth,Economically Sensitive Exposures,U.S. Equities,72.28770446777344,41501.0,3000.0
-2,SCHD,Schwab US Dividend Equity ETF™,Large Value,Economically Sensitive Exposures,U.S. Equities,73.12187957763672,41027.0,3000.0
-3,IMCB,iShares Morningstar Mid-Cap ETF,Mid-Cap Blend,Economically Sensitive Exposures,U.S. Equities,62.02149963378906,64494.0,4000.0
-4,VO,Vanguard Mid-Cap ETF,Mid-Cap Blend,Economically Sensitive Exposures,U.S. Equities,216.59034729003906,9234.0,2000.0
-5,FSMD,Fidelity Small-Mid Multifactor ETF,Small Blend,Economically Sensitive Exposures,U.S. Equities,33.13865280151367,120705.0,4000.0
-6,VBR,Vanguard Small-Cap Value ETF,Small Value,Economically Sensitive Exposures,U.S. Equities,163.39834594726562,6120.0,1000.0
-7,VIGI,Vanguard Intl Div Apprec ETF,Foreign Large Growth,Economically Sensitive Exposures,International Equities,74.10829162597656,40481.0,3000.0
-8,JPEM,JPMorgan Diversified Return EMkts Eq ETF,Diversified Emerging Mkts,Economically Sensitive Exposures,Emerging Market Equities,50.91583251953125,78561.0,4000.0
-9,ISCF,iShares MSCI Intl Small-Cap Mltfct ETF,Foreign Small/Mid Blend,Economically Sensitive Exposures,International Equities,30.610000610351562,98007.0,3000.0
-10,IGRO,iShares International Dividend Gr ETF,Foreign Large Blend,Economically Sensitive Exposures,International Equities,61.33000564575195,32610.0,2000.0
-11,VNQ,Vanguard Real Estate ETF,Vanguard Real Estate Index,Economically Sensitive Exposures,Publicly Traded REITs,80.8038330078125,9282.0,750.0
-12,DFAR,Dimensional US Real Estate ETF,Other,Economically Sensitive Exposures,Publicly Traded REITs,20.74358558654785,36156.0,750.0
-13,FREL,Fidelity MSCI Real Estate ETF,Other,Economically Sensitive Exposures,Publicly Traded REITs,24.246822357177734,20621.0,500.0
-14,JPRE,JPMorgan Realty Income ETF,Other,Economically Sensitive Exposures,Publicly Traded REITs,41.18934631347656,12139.0,500.0
-15,MMIN,IQ MacKay Municipal Insured ETF,Muni National Long,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,23.5,42553.0,1000.0
-16,MEAR,iShares Short Maturity Municipal Bd ETF,Muni National Short,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,49.849998474121094,20060.0,1000.0
-17,MMIT,IQ MacKay Municipal Intermediate ETF,Muni National Interm,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,23.940000534057617,41771.0,1000.0
-18,SNDPX,AB Diversified Municipal,Muni National Short,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,13.600000381469727,73529.0,1000.0
-19,ALTVX,AB Municipal Income National Advisor,Muni National Interm,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,9.399999618530273,106383.0,1000.0
-20,IGMWX,Voya GNMA Income W,Intermediate Government,Interest Rate Sensitive Exposures,U.S. Government Bonds,7.199999809265137,763889.0,5500.0
-21,VFIUX,Vanguard Interm-Term Treasury Adm,Intermediate Government,Interest Rate Sensitive Exposures,U.S. Government Bonds,9.710000038146973,566426.0,5500.0
-22,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds,20.850000381469727,47962.0,1000.0
-23,VGCAX,Vanguard Global Credit Bond Admiral,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds,18.3700008392334,54437.0,1000.0
-24,PSAIX,PIMCO Global Advantage Strategy Bd Instl,Global Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds,9.670000076293945,103413.0,1000.0
-25,PFRAX,PIMCO International Bond (USD-Hdg) Adm,Global Bond-USD Hedged,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds,9.449999809265137,105820.0,1000.0
-26,SWRSX,Schwab Treasury Infl Protected Secs Idx,Inflation-Protected Bond,Interest Rate Sensitive Exposures,U.S. Government Bonds,10.130000114440918,592300.0,6000.0
-27,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds,20.850000381469727,47962.0,1000.0
-28,ICBFX,Invesco Corporate Bond R6,Corporate Bond,Interest Rate Sensitive Exposures,Very-High-Quality Corporate Bonds,6.010000228881836,166389.0,1000.0
-29,VTEB,Vanguard Tax-Exempt Bond ETF,municipal bonds,Interest Rate Sensitive Exposures,Very-High-Quality Municipal Bonds,49.18000030517578,20333.0,1000.0
-30,PEX,ProShares Global Listed Private Equity,private equity index,Economically Sensitive Exposures,Private Equity,27.860000610351562,150754.0,4200.0
-31,VNQ,Vanguard Real Estate ETF,Other,Economically Sensitive Exposures,Private Real Estate,80.8038330078125,30939.0,2500.0
-32,FREL,Fidelity MSCI Real Estate ETF,Other,Economically Sensitive Exposures,Private Real Estate,24.246822357177734,94858.0,2300.0
-33,JPRE,JPMorgan Realty Income ETF,Other,Economically Sensitive Exposures,Private Real Estate,41.18934631347656,48556.0,2000.0
-34,DFAR,Dimensional US Real Estate ETF,Other,Economically Sensitive Exposures,Private Real Estate,20.74358558654785,72312.0,1500.0
-35,BPLSX,Boston Partners Long/Short Equity Instl,Other,Economically Sensitive Exposures,Long/Short Equities,15.010000228881836,49967.0,750.0
-36,GARIX,Gotham Absolute Return Institutional,Other,Economically Sensitive Exposures,Long/Short Equities,19.780000686645508,25278.0,500.0
-37,GCHDX,Gotham Hedged Core Institutional,Other,Economically Sensitive Exposures,Long/Short Equities,10.819999694824219,46211.0,500.0
-38,BLUEX,AMG Veritas Global Real Return I,Other,Economically Sensitive Exposures,Long/Short Equities,35.209999084472656,14201.0,500.0
+0,IVV,iShares Core S&P 500 ETF,Large Blend,Economically Sensitive,U.S. Equities,448.8455505371094,8912.0,4000.0
+1,VONG,Vanguard Russell 1000 Growth ETF,Large Growth,Economically Sensitive,U.S. Equities,72.28770446777344,41501.0,3000.0
+2,SCHD,Schwab US Dividend Equity ETF™,Large Value,Economically Sensitive,U.S. Equities,73.12187957763672,41027.0,3000.0
+3,IMCB,iShares Morningstar Mid-Cap ETF,Mid-Cap Blend,Economically Sensitive,U.S. Equities,62.02149963378906,64494.0,4000.0
+4,VO,Vanguard Mid-Cap ETF,Mid-Cap Blend,Economically Sensitive,U.S. Equities,216.59034729003906,9234.0,2000.0
+5,FSMD,Fidelity Small-Mid Multifactor ETF,Small Blend,Economically Sensitive,U.S. Equities,33.13865280151367,120705.0,4000.0
+6,VBR,Vanguard Small-Cap Value ETF,Small Value,Economically Sensitive,U.S. Equities,163.39834594726562,6120.0,1000.0
+7,VIGI,Vanguard Intl Div Apprec ETF,Foreign Large Growth,Economically Sensitive,International Equities,74.10829162597656,40481.0,3000.0
+8,JPEM,JPMorgan Diversified Return EMkts Eq ETF,Diversified Emerging Mkts,Economically Sensitive,Emerging Market Equities,50.91583251953125,78561.0,4000.0
+9,ISCF,iShares MSCI Intl Small-Cap Mltfct ETF,Foreign Small/Mid Blend,Economically Sensitive,International Equities,30.610000610351562,98007.0,3000.0
+10,IGRO,iShares International Dividend Gr ETF,Foreign Large Blend,Economically Sensitive,International Equities,61.33000564575195,32610.0,2000.0
+11,VNQ,Vanguard Real Estate ETF,Vanguard Real Estate Index,Economically Sensitive,Publicly Traded REITs,80.8038330078125,9282.0,750.0
+12,DFAR,Dimensional US Real Estate ETF,Other,Economically Sensitive,Publicly Traded REITs,20.74358558654785,36156.0,750.0
+13,FREL,Fidelity MSCI Real Estate ETF,Other,Economically Sensitive,Publicly Traded REITs,24.246822357177734,20621.0,500.0
+14,JPRE,JPMorgan Realty Income ETF,Other,Economically Sensitive,Publicly Traded REITs,41.18934631347656,12139.0,500.0
+15,MMIN,IQ MacKay Municipal Insured ETF,Muni National Long,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,23.5,42553.0,1000.0
+16,MEAR,iShares Short Maturity Municipal Bd ETF,Muni National Short,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,49.849998474121094,20060.0,1000.0
+17,MMIT,IQ MacKay Municipal Intermediate ETF,Muni National Interm,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,23.940000534057617,41771.0,1000.0
+18,SNDPX,AB Diversified Municipal,Muni National Short,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,13.600000381469727,73529.0,1000.0
+19,ALTVX,AB Municipal Income National Advisor,Muni National Interm,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,9.399999618530273,106383.0,1000.0
+20,IGMWX,Voya GNMA Income W,Intermediate Government,Interest Rate Sensitive,U.S. Government Bonds,7.199999809265137,763889.0,5500.0
+21,VFIUX,Vanguard Interm-Term Treasury Adm,Intermediate Government,Interest Rate Sensitive,U.S. Government Bonds,9.710000038146973,566426.0,5500.0
+22,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,20.850000381469727,47962.0,1000.0
+23,VGCAX,Vanguard Global Credit Bond Admiral,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,18.3700008392334,54437.0,1000.0
+24,PSAIX,PIMCO Global Advantage Strategy Bd Instl,Global Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,9.670000076293945,103413.0,1000.0
+25,PFRAX,PIMCO International Bond (USD-Hdg) Adm,Global Bond-USD Hedged,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,9.449999809265137,105820.0,1000.0
+26,SWRSX,Schwab Treasury Infl Protected Secs Idx,Inflation-Protected Bond,Interest Rate Sensitive,U.S. Government Bonds,10.130000114440918,592300.0,6000.0
+27,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,20.850000381469727,47962.0,1000.0
+28,ICBFX,Invesco Corporate Bond R6,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,6.010000228881836,166389.0,1000.0
+29,VTEB,Vanguard Tax-Exempt Bond ETF,municipal bonds,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,49.18000030517578,20333.0,1000.0
+30,PEX,ProShares Global Listed Private Equity,private equity index,Economically Sensitive,Private Equity,27.860000610351562,150754.0,4200.0
+31,VNQ,Vanguard Real Estate ETF,Other,Economically Sensitive,Private Real Estate,80.8038330078125,30939.0,2500.0
+32,FREL,Fidelity MSCI Real Estate ETF,Other,Economically Sensitive,Private Real Estate,24.246822357177734,94858.0,2300.0
+33,JPRE,JPMorgan Realty Income ETF,Other,Economically Sensitive,Private Real Estate,41.18934631347656,48556.0,2000.0
+34,DFAR,Dimensional US Real Estate ETF,Other,Economically Sensitive,Private Real Estate,20.74358558654785,72312.0,1500.0
+35,BPLSX,Boston Partners Long/Short Equity Instl,Other,Economically Sensitive,Long/Short Equities,15.010000228881836,49967.0,750.0
+36,GARIX,Gotham Absolute Return Institutional,Other,Economically Sensitive,Long/Short Equities,19.780000686645508,25278.0,500.0
+37,GCHDX,Gotham Hedged Core Institutional,Other,Economically Sensitive,Long/Short Equities,10.819999694824219,46211.0,500.0
+38,BLUEX,AMG Veritas Global Real Return I,Other,Economically Sensitive,Long/Short Equities,35.209999084472656,14201.0,500.0
 39,C_A_S_H,Cash,Other,Cash,Cash,1.0,4469000.0,4469.0
