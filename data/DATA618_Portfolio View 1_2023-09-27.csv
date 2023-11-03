@@ -1,0 +1,36 @@
+Ticker  ,Name  ,Quantity  ,Cost Basis  ,Last Price  ,Market Value  ,Allocation (%)  (%),Investment Type  ,Morningstar Rating for Stocks  ,Morningstar Rating for Funds - Overall ,Asset Class  ,Broad Category Group  ,"Alpha - 1 Year, Monthly ","Beta - 1 Year, Monthly ","Sharpe Ratio - 1 Year, Monthly ",Total Return Rank in Category - YTD ,Equity Style Box  ,Fixed-Income Style Box  
+SNDPX,AB Diversified Municipal,147275.00,1999994.50,13.43,1977903.25,1.35,Open-End Fund,-,5.00,Municipal Bond,Fixed Income,-1.11,0.61,-0.57,67.00,-,Medium/Limited
+ALTVX,AB Municipal Income National Advisor,213220.00,2000003.60,9.20,1961624.00,1.34,Open-End Fund,-,5.00,Municipal Bond,Fixed Income,-0.87,0.90,-0.46,44.00,-,-
+BLUEX,AMG Veritas Global Real Return I,14221.00,500010.36,33.82,480954.22,0.33,Open-End Fund,-,5.00,Nontraditional Equity,Equity,-3.91,0.61,0.25,26.00,Large Growth,-
+BPLSX,Boston Partners Long/Short Equity Instl,49967.00,750004.67,14.86,742509.62,0.51,Open-End Fund,-,4.00,Nontraditional Equity,Equity,1.97,0.69,0.66,31.00,Mid Value,-
+-,Cash - Initial Investment,14997393.79,14997393.79,1.00,14997393.79,10.27,Cash,-,-,-,-,-,-,-,-,-,-
+DFAR,Dimensional US Real Estate ETF,193945.00,4099997.30,19.26,3735380.70,2.56,Exchange-Traded Fund,-,-,Sector Equity,Equity,-21.85,1.11,-0.50,86.00,Mid Blend,-
+FREL,Fidelity® MSCI Real Estate ETF,188990.00,4600016.60,22.44,4240935.60,2.90,Exchange-Traded Fund,-,3.00,Sector Equity,Equity,-21.31,1.14,-0.45,79.00,Mid Blend,-
+FSMD,Fidelity® Small-Mid Multifactor ETF,30303.00,999999.00,32.10,972726.30,0.67,Exchange-Traded Fund,-,4.00,US Equity,Equity,-5.33,0.99,0.31,33.00,Small Blend,-
+GARIX,Gotham Absolute Return Institutional,25641.00,499999.50,19.31,495127.71,0.34,Open-End Fund,-,4.00,Nontraditional Equity,Equity,2.22,0.62,0.79,15.00,Large Blend,-
+GCHDX,Gotham Hedged Core Institutional,46904.00,499996.64,10.54,494368.16,0.34,Open-End Fund,-,4.00,Nontraditional Equity,Equity,-3.49,0.82,0.37,45.00,Large Blend,-
+MMIN,IQ MacKay Municipal Insured ETF,85288.00,2000003.60,22.95,1957359.60,1.34,Exchange-Traded Fund,-,4.00,Municipal Bond,Fixed Income,0.98,1.22,-0.24,70.00,-,High/Extensive
+MMIT,IQ MacKay Municipal Intermediate ETF,83717.00,1999999.13,23.55,1971535.35,1.35,Exchange-Traded Fund,-,5.00,Municipal Bond,Fixed Income,0.12,0.88,-0.33,29.00,-,Medium/Moderate
+ICBFX,Invesco Corporate Bond R6,833333.00,4999998.00,5.89,4908331.37,3.36,Open-End Fund,-,5.00,Taxable Bond,Fixed Income,3.29,1.22,-0.35,73.00,Large Blend,Medium/Moderate
+JPEM,JPMorgan Diversified Return EMkts Eq ETF,72646.00,3749986.52,50.11,3640291.06,2.49,Exchange-Traded Fund,-,4.00,International Equity,Equity,-1.96,0.80,0.28,26.00,Large Blend,-
+JPRE,JPMorgan Realty Income ETF,94520.00,3949045.60,38.34,3624066.94,2.48,Exchange-Traded Fund,-,3.00,Sector Equity,Equity,-18.19,1.11,-0.34,39.00,Mid Blend,-
+PSAIX,PIMCO Global Advantage Strategy Bd Instl,515464.00,5000000.80,9.58,4938145.12,3.38,Open-End Fund,-,5.00,Taxable Bond,Fixed Income,2.06,0.89,-0.40,13.00,-,Medium/Moderate
+PFRAX,PIMCO International Bond (USD-Hdg) Adm,527426.00,4999998.48,9.40,4957804.40,3.40,Open-End Fund,-,5.00,Taxable Bond,Fixed Income,0.26,0.51,-0.56,17.00,-,Medium/Moderate
+PEX,ProShares Global Listed Private Equity,268432.00,7499990.08,25.90,6951878.78,4.76,Exchange-Traded Fund,-,-,Sector Equity,Equity,-2.78,1.07,0.36,-,Small Value,-
+SWRSX,Schwab Treasury Infl Protected Secs Idx,1483680.00,15000004.80,9.97,14792289.60,10.13,Open-End Fund,-,4.00,Taxable Bond,Fixed Income,-3.12,0.89,-0.99,59.00,-,High/Moderate
+SCHD,Schwab US Dividend Equity ETF™,27163.00,2000011.69,70.64,1918794.32,1.31,Exchange-Traded Fund,-,5.00,US Equity,Equity,-6.94,0.88,0.18,90.00,Large Value,-
+VGCAX,Vanguard Global Credit Bond Admiral,408719.00,7499993.65,18.14,7414162.66,5.08,Open-End Fund,-,4.00,Taxable Bond,Fixed Income,3.02,1.00,-0.33,9.00,-,Medium/Moderate
+VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,720807.00,14999993.67,20.48,14762127.36,10.11,Open-End Fund,-,4.00,Taxable Bond,Fixed Income,4.01,1.20,-0.29,36.00,-,Medium/Moderate
+VFIUX,Vanguard Interm-Term Treasury Adm,1291322.00,12499996.96,9.56,12345038.32,8.46,Open-End Fund,-,5.00,Taxable Bond,Fixed Income,-1.34,0.83,-0.89,26.00,-,High/Moderate
+VIGI,Vanguard Intl Div Apprec ETF,26878.00,1999991.98,71.30,1916401.40,1.31,Exchange-Traded Fund,-,5.00,International Equity,Equity,1.18,0.87,0.46,40.00,Large Growth,-
+VO,Vanguard Mid-Cap ETF,6943.00,1500035.15,207.29,1439214.47,0.99,Exchange-Traded Fund,-,4.00,US Equity,Equity,-8.86,1.08,0.18,58.00,Mid Blend,-
+VNQ,Vanguard Real Estate ETF,56228.00,4600012.68,75.45,4242402.60,2.91,Exchange-Traded Fund,-,3.00,Sector Equity,Equity,-21.23,1.14,-0.45,78.00,Mid Blend,-
+VONG,Vanguard Russell 1000 Growth ETF,14055.00,1000013.25,67.96,955177.80,0.65,Exchange-Traded Fund,-,5.00,US Equity,Equity,5.10,1.02,0.86,27.00,Large Growth,-
+VBR,Vanguard Small-Cap Value ETF,6079.00,1000056.29,158.35,962609.65,0.66,Exchange-Traded Fund,-,4.00,US Equity,Equity,-8.12,1.18,0.23,58.00,Small Value,-
+VTEB,Vanguard Tax-Exempt Bond ETF,101937.00,5000009.85,48.24,4917440.88,3.37,Exchange-Traded Fund,-,3.00,Municipal Bond,Fixed Income,0.22,0.95,-0.32,65.00,-,High/Moderate
+IGMWX,Voya GNMA Income W,1390821.00,10000002.99,7.03,9777471.63,6.70,Open-End Fund,-,4.00,Taxable Bond,Fixed Income,-1.10,0.95,-0.85,36.00,-,High/Moderate
+IVV,iShares Core S&P 500 ETF,4474.00,2000101.70,427.87,1914290.38,1.31,Exchange-Traded Fund,-,5.00,US Equity,Equity,-0.02,1.00,0.64,23.00,Large Blend,-
+IGRO,iShares International Dividend Gr ETF,12063.00,749956.71,59.28,715094.64,0.49,Exchange-Traded Fund,-,4.00,International Equity,Equity,2.37,0.93,0.53,46.00,Large Blend,-
+ISCF,iShares MSCI Intl Small-Cap Mltfct ETF,32819.00,1000323.12,29.33,962581.27,0.66,Exchange-Traded Fund,-,4.00,International Equity,Equity,-2.68,0.99,0.27,93.00,Small Blend,-
+IMCB,iShares Morningstar Mid-Cap ETF,32279.00,2000006.84,59.39,1917146.65,1.31,Exchange-Traded Fund,-,4.00,US Equity,Equity,-8.00,1.07,0.21,65.00,Mid Blend,-
+MEAR,iShares Short Maturity Municipal Bd ETF,40096.00,1999988.48,49.80,1996780.80,1.37,Exchange-Traded Fund,-,4.00,Municipal Bond,Fixed Income,-1.65,0.08,-2.68,3.00,-,Medium/Limited
