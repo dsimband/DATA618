@@ -1,0 +1,41 @@
+,Ticker,BondName,Morningstar_Category,Class,Sub_Class,Date,Value
+0,IVV,iShares Core S&P 500 ETF,Large Blend,Economically Sensitive,U.S. Equities,2023-09-11,4000
+1,VONG,Vanguard Russell 1000 Growth ETF,Large Growth,Economically Sensitive,U.S. Equities,2023-09-11,3000
+2,SCHD,Schwab US Dividend Equity ETF™,Large Value,Economically Sensitive,U.S. Equities,2023-09-11,3000
+3,IMCB,iShares Morningstar Mid-Cap ETF,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-09-11,4000
+4,VO,Vanguard Mid-Cap ETF,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-09-11,2000
+5,FSMD,Fidelity Small-Mid Multifactor ETF,Small Blend,Economically Sensitive,U.S. Equities,2023-09-11,4000
+6,VBR,Vanguard Small-Cap Value ETF,Small Value,Economically Sensitive,U.S. Equities,2023-09-11,1000
+7,VIGI,Vanguard Intl Div Apprec ETF,Foreign Large Growth,Economically Sensitive,International Equities,2023-09-11,3000
+8,JPEM,JPMorgan Diversified Return EMkts Eq ETF,Diversified Emerging Mkts,Economically Sensitive,Emerging Market Equities,2023-09-11,4000
+9,ISCF,iShares MSCI Intl Small-Cap Mltfct ETF,Foreign Small/Mid Blend,Economically Sensitive,International Equities,2023-09-11,3000
+10,IGRO,iShares International Dividend Gr ETF,Foreign Large Blend,Economically Sensitive,International Equities,2023-09-11,2000
+11,VNQ,Vanguard Real Estate ETF,Vanguard Real Estate Index,Economically Sensitive,Publicly Traded REITs,2023-09-11,3250
+12,DFAR,Dimensional US Real Estate ETF,Other,Economically Sensitive,Publicly Traded REITs,2023-09-11,2250
+13,FREL,Fidelity MSCI Real Estate ETF,Other,Economically Sensitive,Publicly Traded REITs,2023-09-11,2800
+14,JPRE,JPMorgan Realty Income ETF,Other,Economically Sensitive,Publicly Traded REITs,2023-09-11,2500
+15,MMIN,IQ MacKay Municipal Insured ETF,Muni National Long,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,2023-09-11,1000
+16,MEAR,iShares Short Maturity Municipal Bd ETF,Muni National Short,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,2023-09-11,1000
+17,MMIT,IQ MacKay Municipal Intermediate ETF,Muni National Interm,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,2023-09-11,1000
+18,SNDPX,AB Diversified Municipal,Muni National Short,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,2023-09-11,1000
+19,ALTVX,AB Municipal Income National Advisor,Muni National Interm,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,2023-09-11,1000
+20,IGMWX,Voya GNMA Income W,Intermediate Government,Interest Rate Sensitive,U.S. Government Bonds,2023-09-11,5500
+21,VFIUX,Vanguard Interm-Term Treasury Adm,Intermediate Government,Interest Rate Sensitive,U.S. Government Bonds,2023-09-11,5500
+22,VICSX,Vanguard Interm-Term Corp Bd Idx Admiral,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,2023-09-11,2000
+23,VGCAX,Vanguard Global Credit Bond Admiral,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,2023-09-11,1000
+24,PSAIX,PIMCO Global Advantage Strategy Bd Instl,Global Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,2023-09-11,1000
+25,PFRAX,PIMCO International Bond (USD-Hdg) Adm,Global Bond-USD Hedged,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,2023-09-11,1000
+26,SWRSX,Schwab Treasury Infl Protected Secs Idx,Inflation-Protected Bond,Interest Rate Sensitive,U.S. Government Bonds,2023-09-11,6000
+28,ICBFX,Invesco Corporate Bond R6,Corporate Bond,Interest Rate Sensitive,Very-High-Quality Corporate Bonds,2023-09-11,1000
+29,VTEB,Vanguard Tax-Exempt Bond ETF,municipal bonds,Interest Rate Sensitive,Very-High-Quality Municipal Bonds,2023-09-11,1000
+30,PEX,ProShares Global Listed Private Equity,private equity index,Economically Sensitive,Private Equity,2023-09-11,4200
+35,BPLSX,Boston Partners Long/Short Equity Instl,Other,Economically Sensitive,Long/Short Equities,2023-09-11,750
+36,GARIX,Gotham Absolute Return Institutional,Other,Economically Sensitive,Long/Short Equities,2023-09-11,500
+37,GCHDX,Gotham Hedged Core Institutional,Other,Economically Sensitive,Long/Short Equities,2023-09-11,500
+38,BLUEX,AMG Veritas Global Real Return I,Other,Economically Sensitive,Long/Short Equities,2023-09-11,500
+39,C_A_S_H,Cash,Other,Cash,Cash,2023-09-11,4183
+40,ARKK,ARK Innovation ETF,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-10-13,1000
+41,EXAS,Exact Sciences Corp,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-10-13,500
+42,NVTA,Invitae Corp,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-10-13,500
+43,PATH,UiPath Inc Class A,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-10-13,500
+43,TWLO,Twilio Inc Class A,Mid-Cap Blend,Economically Sensitive,U.S. Equities,2023-10-13,500
