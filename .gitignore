@@ -1,6 +1,6 @@
 
 **.ipynb_checkpoints/
-**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/**
 **/.DS_Store
 **articles
 **examples
@@ -23,6 +23,6 @@ w6/.ipynb_checkpoints
 w8/DATA618_W8_BlackScholes.pdf
 DATA618_w3_2023 Capital Gains Tax Calculator.pdf
 DATA618 W3 Scenario3 Morningstar Investor.pdf
-
-
+w6/.ipynb_checkpoints/DATA618_W6_Alpha-checkpoint.ipynb
+w6/.ipynb_checkpoints/DATA618_W6_Sharpe-checkpoint.ipynb
 
